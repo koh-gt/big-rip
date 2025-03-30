@@ -1,26 +1,28 @@
 # big-rip
 
-Imagine the singularity not as a distant point, but as a moment in time —a cosmic destiny we are falling toward at a rate of 1 second per second. 
-Similarly, the space we perceive isn’t just emptiness—it’s a measure of time itself.
-It reflects how much time remains before we reach the singularity. 
-Right now, the universe stretches wide, giving us an abundance of time. 
-But as the singularity draws closer, space itself will shrink, our cosmic horizon contracting until time (and space) runs out.
-It is everywhere, at the very edge of the observable universe, shaping the boundaries of what we can see. 
-Every observer is at the center of their own shrinking horizon, as dark energy accelerates the universe’s expansion.
 
-Like a traveler that has already crossed the event horizon of a black hole, we are inevitably being drawn closer to the singularity, the cosmic end. 
-Light from distant galaxies will cease to reach us, their signals lost beyond an ever-receding boundary, known today as the cosmic horizon. 
-As this "singularity shell" closes in, the universe will undergo a violent unraveling—galaxies will be pulled apart. 
-At this point, the cosmic horizon would be at the scale of a few light years, anything further is out of reach from ever-accelerating expansion.
-Eventually, even atoms themselves will succumb to the relentless expansion.
+## Analogy  
+Imagine the singularity not as a distant point, but as a moment in time —a cosmic destiny that we are falling towards at a rate of 1 second per second.  
+Similarly, the space we perceive isn’t just emptiness—it’s a measure of time itself.  
+It reflects how much time remains before we reach the singularity.   
+Right now, the universe stretches wide, giving us an abundance of time.   
+But as the singularity draws closer, space itself will shrink, our cosmic horizon contracting until time (and space) runs out.  
+It is everywhere, at the very edge of the observable universe, shaping the boundaries of what we can see.   
+Every observer is at the center of their own shrinking horizon, as dark energy accelerates the universe’s expansion.  
+  
+Like a traveler that has already crossed the event horizon of a black hole, we are inevitably being drawn closer to the singularity, the cosmic end.   
+Light from distant galaxies will cease to reach us, their signals lost beyond an ever-receding boundary, known today as the cosmic horizon.   
+As this "singularity shell" closes in, the universe will undergo a violent unraveling—galaxies will be pulled apart.   
+At this point, the cosmic horizon would be at the scale of a few light years, anything further is out of reach from ever-accelerating expansion.  
+Eventually, even atoms themselves will succumb to the relentless expansion.  
+  
+At the final moment, the very fabric of space reaches infinite stretch, the cosmic horizon collapses to nothing.   
+The singularity has arrived—not at a place, but at the very end of time.  
 
-At the final moment, the very fabric of space reaches infinite stretch, the cosmic horizon collapses to nothing. 
-The singularity has arrived—not at a place, but at the very end of time.
-
-Additional Notes:
-Falling into a black hole achieves the same effect, but faster. 
-As you approach the event horizon, time dilation approaches infinity.
-Now you get to close in to the very end of time and approach the singularity as you are increasingly spaghettified in every direction.
+Additional Notes:  
+Falling into a black hole achieves the same effect, but faster.  
+As you approach the event horizon, time dilation approaches infinity.  
+Now you get to close in to the very end of time and approach the singularity as you are increasingly spaghettified in every direction.  
 
 ---
 
@@ -141,7 +143,7 @@ Data from the Planck satellite and Type Ia supernova observations have provided 
 
 ### b. **DESI and BAO Measurements**
 
-Recent observations from the Dark Energy Spectroscopic Instrument (DESI) have analyzed millions of galaxies and quasars. These studies suggest that dark energy might be evolving over time rather than remaining strictly constant citeturn0news31. In a phantom scenario, even a small deviation (\(w < -1\)) could, over cosmic timescales, drive the universe toward a Big Rip.
+Recent observations from the Dark Energy Spectroscopic Instrument (DESI) have analyzed millions of galaxies and quasars. These studies suggest that dark energy might be evolving over time rather than remaining strictly constant. In a phantom scenario, even a small deviation (\(w < -1\)) could, over cosmic timescales, drive the universe toward a Big Rip.
 
 ### c. **Deceleration Parameter**
 
